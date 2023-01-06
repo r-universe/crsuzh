@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ReplicationSuccess"]
+	path = ReplicationSuccess
+	url = https://github.com/crsuzh/replicationsuccess
+	shallow = true
+	registered = true
